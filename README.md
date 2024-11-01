@@ -2,7 +2,7 @@
 contact me:
 <p>
 <a href="https://x.com/Alfredfuuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/x.svg" alt="Alfredfuuu" height="30" width="30" /></a>&nbsp;
-<a href="www.linkedin.com/in/alfredfuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/linkedin.svg" alt="alfredfuu" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/alfredfuu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/linkedin.svg" alt="alfredfuu" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/alfred_1227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@13/icons/discord.svg" alt="alfred_1227" height="30" width="30" /></a>&nbsp;
 </p>
 
